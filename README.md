@@ -11,6 +11,7 @@ yarn dev
 # or
 pnpm dev
 ```
+![image](https://github.com/Prateesh-Sulikeri/D-bug/assets/106986640/849463c4-23b3-46d0-ac9b-bdef7bb7e16f)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
